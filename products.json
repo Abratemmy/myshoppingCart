@@ -1,0 +1,141 @@
+{
+    "fastselling":[
+        {
+            "sys": {"id": "1"},
+            "fields":{
+                "title": "queen ",
+                "price": 209.99,
+                "image": {"fields":{"file":{"url":"./images/product-1.PNG"}}}
+
+            }
+        },
+        {
+            "sys": {"id": "1"},
+            "fields":{
+                "title": "queen eli",
+                "price": 209.9900,
+                "image": {"fields":{"file":{"url":"./images/product-1.PNG"}}}
+
+            }
+        }
+
+    ],
+    "items":[
+       
+
+
+        {
+            "sys": {"id": "1001"},
+            "fields":{
+                "title": "Jean gown",
+                "price": 200.99,
+                "fastselling":false,
+                "image": {"fields":{"file":{"url":"./images/product-1.PNG"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "1002"},
+            "fields":{
+                "title": "straight black gown",
+                "price": 200.99,
+                "fastselling":true,
+                "image": {"fields":{"file":{"url":"./images/product-2.PNG"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "1003"},
+            "fields":{
+                "title": "office skirt",
+                "price": 200.99,
+                "fastselling":false,
+                "image": {"fields":{"file":{"url":"./images/product-3.PNG"}}}
+            }
+        },
+        {
+            "sys": {"id": "1004"},
+            "fields":{
+                "title": "party gown",
+                "price": 200.99,
+                "fastselling":false,
+                "image": {"fields":{"file":{"url":"./images/product-4.PNG"}}}
+            }
+        },
+        {
+            "sys": {"id": "1005"},
+            "fields":{
+                "title": "shoe",
+                "price": 200.99,
+                "fastselling":true,
+                "image": {"fields":{"file":{"url":"./images/product-5.PNG"}}}
+            }
+        },
+        {
+            "sys": {"id": "1006"},
+            "fields":{
+                "title": "fitted shirt",
+                "price": 150.99,
+                "fastselling":true,
+                "image": {"fields":{"file":{"url":"./images/product-6.PNG"}}}
+            }
+        },
+        {
+            "sys": {"id": "1007"},
+            "fields":{
+                "title": "red gown",
+                "price": 1000.99,
+                "fastselling":true,
+                "image": {"fields":{"file":{"url":"./images/product-7.PNG"}}}
+            }
+        },
+        {
+            "sys": {"id": "1008"},
+            "fields":{
+                "title": "flair gown",
+                "price": 1000.99,
+                "fastselling":true,
+                "image": {"fields":{"file":{"url":"./images/product-8.PNG"}}}
+            }
+        },
+        {
+            "sys": {"id": "1009"},
+            "fields":{
+                "title": "golden wrist watch",
+                "price": 300.99,
+                "fastselling":true,
+                "image": {"fields":{"file":{"url":"./images/product-9.PNG"}}}
+            }
+        },
+        {
+            "sys": {"id": "1010"},
+            "fields":{
+                "title": "Men shirt",
+                "price": 200.99,
+                "fastselling":true,
+                "image": {"fields":{"file":{"url":"./images/product-10.PNG"}}}
+            }
+        },
+        {
+            "sys": {"id": "1011"},
+            "fields":{
+                "title": "shoe",
+                "price": 1000.99,
+                "fastselling":true,
+                "image": {"fields":{"file":{"url":"./images/product-11.PNG"}}}
+            }
+        },
+        {
+            "sys": {"id": "1012"},
+            "fields":{
+                "title": "sweat shirt",
+                "price": 2000.99,
+                "fastselling":true,
+                "image": {"fields":{"file":{"url":"./images/product-12.PNG"}}}
+            }
+        }
+
+
+
+    ]
+}
